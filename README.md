@@ -5,7 +5,7 @@ This web scraper is a tool that allows you to compare the prices of products on 
 For best results, please use a *specific* search term, and a short number of pages.
 In order to start, click "Run All" and Enjoy! 
 
-At the following notebook is loaded with the results for - Product_name: Shampoo, Number_of_pages: 1. 
+#### The following notebook is loaded with the results for - Product_name: Shampoo, Number_of_pages: 1. 
 
 ## Configuration
 
